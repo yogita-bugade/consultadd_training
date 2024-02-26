@@ -1,1 +1,1 @@
-<h1>Version Control System Assignment</h1>
+<h1>Training</h1>
